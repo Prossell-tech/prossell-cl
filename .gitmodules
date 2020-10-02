@@ -1,0 +1,9 @@
+[submodule "prossell-webapp"]
+	path = prossell-webapp
+	url = https://github.com/Prossell-tech/prossell-webapp.git
+[submodule "prossell-server"]
+	path = prossell-server
+	url = https://github.com/Prossell-tech/prossell-server.git
+[submodule "prossell-utilities"]
+	path = prossell-utilities
+	url = https://github.com/Prossell-tech/prossell-utilities.git
